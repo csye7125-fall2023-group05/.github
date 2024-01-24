@@ -6,6 +6,9 @@ The orchestration of distributed systems using Kubernetes involving utilization 
 
 The project aims to help build skills to develop applications for hybrid cloud and run existing monolithic applications side by side with microservices without a complete rewrite.
 
+<img src="https://github.com/csye7125-fall2023-group05/.github/assets/97932746/d5dc9003-8827-4002-9d4d-db4071b205e6" alt="final-patch" width="800" height="800">
+
+
 ## Topics
 
 - [x] DevOps, GitOps, SRE
@@ -27,7 +30,13 @@ The project aims to help build skills to develop applications for hybrid cloud a
 - [x] Serverless Computing
 - [x] Securing cloud applications and infrastructure
 
-<img src="https://user-images.githubusercontent.com/97932746/201548646-8a8439bd-5f6e-487a-a9b7-1d57ba0187be.png" alt="final-patch" width="500" height="500">
+## Authors
+
+- [Siddharth Rawat](https://github.com/sydrawat01)
+- [Rishab Agarwal](https://github.com/rishabNeu)
+- [Karan Wadhwa](https://github.com/karanwadhwa)
+
+<!--img src="https://user-images.githubusercontent.com/97932746/201548646-8a8439bd-5f6e-487a-a9b7-1d57ba0187be.png" alt="final-patch" width="500" height="500" -->
 
 <!--
 
